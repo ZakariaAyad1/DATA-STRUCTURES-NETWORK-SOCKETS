@@ -3,6 +3,10 @@
 #include <stdlib.h>
 #include <string.h>
 
+
+
+// les structures
+
 typedef struct {
     char nom_utilisateur[20];
     int mot_de_passe;
